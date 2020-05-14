@@ -1,0 +1,13 @@
+.flags {
+    width: 300px;
+    height: 100px;
+}
+
+.ukraine__top-stript {
+    height: 50%;
+    background-color: blue;
+}
+
+.ukraine__bottom-stript {
+    background-color: yellow;
+}
